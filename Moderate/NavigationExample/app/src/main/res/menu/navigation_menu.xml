@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navi_android"
+            android:icon="@drawable/icon"
+            android:title="My android"
+            />
+        <item
+            android:id="@+id/navi_rate"
+            android:icon="@drawable/icon"
+            android:title="Travel with us"
+            />
+        <item
+            android:id="@+id/navi_feedback"
+            android:icon="@drawable/icon"
+            android:title="My me birthday"
+            />
+
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/navi_share"
+                android:icon="@drawable/icon"
+                android:title="Share via Plane"
+                />
+            <item
+                android:id="@+id/navi_send"
+                android:icon="@drawable/icon"
+                android:title="Send Coffee"
+                />
+
+
+        </menu>
+
+    </item>
+
+</menu>
