@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/icon"
+        android:title="Mr. Android"
+        />
+    <item
+        android:id="@+id/car"
+        android:icon="@drawable/icon"
+        android:title="Car"
+        />
+    <item
+        android:id="@+id/cup"
+        android:icon="@drawable/icon"
+        android:title="Coffee"
+        />
+
+</menu>
